@@ -6,7 +6,7 @@ This document outlines the steps required to install and activate Microsoft Offi
 
 ---
 
-# **Step 1: Access the Script Repository**
+### **Step 1: Access the Script Repository**
 
 Navigate to the following GitHub link:
 
