@@ -25,7 +25,8 @@ irm https://get.activated.win | iex
 ## Step 3. Execute the Command in PowerShell
 
 Open Windows PowerShell, paste the copied command, and press Enter.
-![PowerShell Execution](image4.png)
+
+![][image4]
 
 After execution, a command palette (or menu) will open in the PowerShell window.
 
