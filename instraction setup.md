@@ -6,4 +6,4 @@ This document outlines the steps required to install and activate Microsoft Offi
 
 ---
 
-## **Step 1: Access the Script Repository**
+## Step 1. Open PowerShell as Administrator
