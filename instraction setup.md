@@ -34,24 +34,24 @@ After execution, a command palette (or menu) will open in the PowerShell window.
 
 From the command palette, press 2 on your keyboard. This will redirect you to a new set of options.
 
-ss for administ
+![][image5]
 
 ## Step 5: Navigate to the Download Section
 
 Press 3 on your keyboard. This will redirect you to a website tab in your browser.
 
-ss for
+![][image6]
 
 Scroll down on the website to find the Download Office section and click the specified selection area (Note: Please reference the exact text or button name here, or include an image reference).
 
-ss for
+![][image7]
 
 ## Step 6: Final Download Link
 
 After clicking the specified section in Step 6, a new website will open. On this page, locate the relevant section and click the Link button
 (Note: Please reference the exact text or button name here, or include an image reference).
 
-ss for
+![][image8]
 
 ## Step 7: Run the Setup File
 
@@ -61,4 +61,14 @@ The office setup.exe file will now download. Run this file to begin the Microsof
 
 After the installation is complete, return to the command prompt window that is currently open (from Step 4). Press 1 to activate Microsoft Office.
 
-ss for
+![][image9]
+
+[image1]: images/image1.png
+[image2]: images/image2.png
+[image3]: images/image3.png
+[image4]: images/image4.png
+[image5]: images/image5.png
+[image6]: images/image6.png
+[image7]: images/image7.png
+[image8]: images/image8.png
+[image9]: images/image9.png
