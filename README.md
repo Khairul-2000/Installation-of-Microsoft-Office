@@ -2,64 +2,65 @@
 
 This document outlines the steps required to install and activate Microsoft Office using the provided script and resources.
 
-***Installation Steps***
+**_Installation Steps_**
 
 ---
 
-## **Step 1: Access the Script Repository**
+## Step 1. Open PowerShell as Administrator
 
-Navigate to the following GitHub link:
+1. Click on windows Start button or Search icon in the taskbar
+2. Type powershell
+3. Select Run as administrator
 
-[https://github.com/NiREvil/windows-activation](https://github.com/NiREvil/windows-activation)
+## Step 2. Run the Activation Script
 
-**Step 2: Locate Legacy Documentation**
+Copy the following command, paste it (via Right-click) into the PowerShell window and press Enter key.
 
-Scroll down on the GitHub page to the *Legacy Documentation* section and click the link.
+**_For windows 8 – 10 – 11:_**
 
-[https://github.com/NiREvil/windows-activation/tree/Old](https://github.com/NiREvil/windows-activation/tree/Old)  
-**![][image1]**
+```
+irm https://get.activated.win | iex
+```
 
-Upon clicking the link, the legacy documentation page will appear.
+## Step 3. Execute the Command in PowerShell
 
-![][image2]
-
-**Step 3: Copy the Command**
-
-On the legacy documentation page, scroll down and copy the command provided.  
-![][image3]
-
-**Step 4: Execute the Command in PowerShell**
-
-Open Windows PowerShell, paste the copied command, and press **Enter**.
+Open Windows PowerShell, paste the copied command, and press Enter.
 
 ![][image4]
 
-After execution, a command **palette** (or menu) will open in the PowerShell window.
+After execution, a command palette (or menu) will open in the PowerShell window.
 
-**Step 5: Access Installation Options**
+## Step 4: Access Installation Options
 
-From the command palette, press **2** on your keyboard. This will redirect you to a new set of options.  
-![][image5]  
-**Step 6: Navigate to the Download Section**
+From the command palette, press 2 on your keyboard. This will redirect you to a new set of options.
 
-Press **3** on your keyboard. This will redirect you to a website tab in your browser. ![][image6]
+![][image5]
 
-Scroll down on the website to find the **Download Office** section and click the specified selection area (***Note: Please reference the exact text or button name here, or include an image reference***).  
+## Step 5: Navigate to the Download Section
+
+Press 3 on your keyboard. This will redirect you to a website tab in your browser.
+
+![][image6]
+
+Scroll down on the website to find the Download Office section and click the specified selection area (Note: Please reference the exact text or button name here, or include an image reference).
+
 ![][image7]
 
-**Step 7: Final Download Link**
+## Step 6: Final Download Link
 
-After clicking the specified section in Step 6, a new website will open. On this page, locate the relevant section and click the Link button (***Note: Please reference the exact text or button name here, or include an image reference***).
+After clicking the specified section in Step 6, a new website will open. On this page, locate the relevant section and click the Link button
+(Note: Please reference the exact text or button name here, or include an image reference).
 
-**![][image8]**
+![][image8]
 
-**Step 8: Run the Setup File**
+## Step 7: Run the Setup File
 
-The **office setup.exe** file will now download. Run this file to begin the Microsoft Office installation process.
+The office setup.exe file will now download. Run this file to begin the Microsoft Office installation process.
 
-**Step 9: Activate Microsoft Office**
+## Step 9: Activate Microsoft Office
 
-After the installation is complete, return to the command prompt window that is currently open (from Step 4). Press **1** to activate Microsoft Office.  
+After the installation is complete, return to the command prompt window that is currently open (from Step 4). Press 1 to activate Microsoft Office.
+
 ![][image9]
 
 [image1]: images/image1.png
